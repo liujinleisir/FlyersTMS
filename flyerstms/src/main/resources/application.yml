@@ -19,7 +19,7 @@ spring:
 #      url: jdbc:mysql://10.135.136.17:3306/messageboard
 #      username: root
 #      password: liujinlei
-      url: jdbc:mysql://148.70.68.65:3306/message
+      url: jdbc:mysql://148.***.***:3306/message
       username: root
       password: liujinlei
       driver-class-name: com.mysql.jdbc.Driver

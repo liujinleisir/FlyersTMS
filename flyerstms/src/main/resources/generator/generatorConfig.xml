@@ -22,7 +22,7 @@
 
         <!--数据库连接信息 -->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://148.70.68.65:3306/flyersTMS"
+                        connectionURL="jdbc:mysql://148.***.***:3306/flyersTMS"
                         userId="root"
                         password="liujinlei">
         </jdbcConnection>
